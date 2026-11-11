@@ -1,1 +1,3 @@
-# git_github_huggingface_terminal_fetch_8078_release_toolkit_k7d2q
+# release-toolkit
+
+Shared scripts for packaging, signing and archiving release bundles. Used by several internal projects; no project indexes are kept here.
